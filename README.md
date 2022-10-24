@@ -31,3 +31,4 @@ best objective bound: 43.0
 - https://github.com/d-krupke/cpsat-primer
 - https://github.com/google/or-tools/tree/stable/examples/python
 - https://xiang.dev/posts/cp-sat/
+- https://google.github.io/or-tools/python/ortools/sat/python/cp_model.html
