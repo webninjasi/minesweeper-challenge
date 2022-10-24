@@ -24,3 +24,10 @@ best objective bound: 43.0
 
 - This is my first attempt to use CP-SAT and I'm sure the script can be improved.
 - Solver is not deterministic while working in parallel (which is the default) so sometimes it takes a few minutes to reach a good solution while other times it takes forever to reach a solution.
+
+## Resources for CP-SAT
+
+- https://developers.google.com/optimization/cp/cp_solver
+- https://github.com/d-krupke/cpsat-primer
+- https://github.com/google/or-tools/tree/stable/examples/python
+- https://xiang.dev/posts/cp-sat/
